@@ -7,4 +7,9 @@
     <color name="primary_color">#1976D2</color>
     <color name="hint_text_color">#999999</color>
     <color name="naranja">#E64A19</color>
+
+    <color name="icon_color_light">#000000</color>
+    <color name="icon_color_dark">#FFFFFF</color>
+
+
 </resources>
